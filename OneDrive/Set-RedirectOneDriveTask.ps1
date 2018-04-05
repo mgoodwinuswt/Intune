@@ -8,11 +8,11 @@
 [CmdletBinding(ConfirmImpact = 'Low', HelpURI = 'https://stealthpuppy.com/', SupportsPaging = $False,
     SupportsShouldProcess = $False, PositionalBinding = $False)]
 Param (
-    [Parameter()]$LogFile = "$env:ProgramData\stealthpuppy\Logs\$($MyInvocation.MyCommand.Name).log",
+    [Parameter()]$LogFile = "$env:ProgramData\mgoodwinuswt\Logs\$($MyInvocation.MyCommand.Name).log",
     [Parameter()]$Source = "https://stlhppymdrn.blob.core.windows.net/fslogix-ruleset/?comp=list",
     [Parameter()]$RegPath = "HKLM:\SOFTWARE\FSLogix\Apps",
     [Parameter()]$RegExDirectory = "^[a-zA-Z]:\\[\\\S|*\S]?.*$",
-    [Parameter()]$Target = "$env:ProgramData\uswtmgoodwin\Scripts",
+    [Parameter()]$Target = "$env:ProgramData\mgoodwinuswt\Scripts",
     [Parameter()]$Url = "https://raw.githubusercontent.com/mgoodwinuswt/Intune/master/OneDrive/Redirect-Folders.ps1?token=AjMbbiIlx3GG1x3X4DRX_FMg2o30aYS-ks5az5wzwA%3D%3D",
     [Parameter()]$Script = "Redirect-Folders.ps1",
     [Parameter()]$ScriptVb = "Redirect-Folders.vbs",
