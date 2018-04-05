@@ -213,7 +213,10 @@ Write-Verbose "Target sync folder is $SyncFolder."
 If (Test-Path $SyncFolder) {
     Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'Desktop' -SetFolder 'Desktop' -Target 'Desktop'
     Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'MyDocuments' -SetFolder 'Documents' -Target 'Documents'
+    #Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'Downloads' -SetFolder 'Downloads' -Target 'Downloads'
     Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'MyPictures' -SetFolder 'Pictures' -Target 'Pictures'
+    Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'MyMusic' -SetFolder 'Music' -Target 'Music'
+    Redirect-Folder -SyncFolder $SyncFolder -GetFolder 'MyVideos' -SetFolder 'Videos' -Target 'Videos'
 }
 Else {
     Write-Verbose "$SyncFolder does not (yet) exist. Skipping folder redirection until next logon."
