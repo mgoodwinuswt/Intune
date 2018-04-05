@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/8227455?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="aaronparker/Intune" /><meta property="og:url" content="https://github.com/aaronparker/Intune" /><meta property="og:description" content="Various scripts for use with Microsoft Intune and Windows 10 Modern Management" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjU4MDY5MTU4OjhiYTc1Nzc5ZWU2ZDA2MWFlMDI1Y2QxMjk1MDdkN2I3YTQzNzI5OTVhZTBlMDRhNDQ1MjM3ZmM0YTI0OWFmYzg=--4cf431a158049319e6e351923349f67a73b61e39">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjU4MDY5MTU4OjhhZDI4MWM3ODEzM2NmYjMzZmU2ZmRkMmQ1NGQ2YTQ5ZGQ1ODg4NDgyOTM3YmM2ZGYzYjE5YjJlNTVjZTI1MWQ=--a360d1d9f4c342d8f4c770b9d9dbcc3957f85694">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="E71B:53EB:2B9392:55A058:5AC6237F" data-pjax-transient>
+  <meta name="request-id" content="8167:53EE:66F2E9:C79F61:5AC65FF0" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E71B:53EB:2B9392:55A058:5AC6237F" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="36903790" /><meta name="octolytics-actor-login" content="mgoodwinuswt" /><meta name="octolytics-actor-hash" content="5ebf8a57ddd813be6f74dcf53d8cc40fedceae84f33a88b615f81c5be7626477" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="8167:53EE:66F2E9:C79F61:5AC65FF0" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="36903790" /><meta name="octolytics-actor-login" content="mgoodwinuswt" /><meta name="octolytics-actor-hash" content="5ebf8a57ddd813be6f74dcf53d8cc40fedceae84f33a88b615f81c5be7626477" />
 <meta name="hydro-events-url" content="https://github.com/hydro_browser_events" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -68,13 +68,13 @@
     <meta name="user-login" content="mgoodwinuswt">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MGJjNDQ5YTQ5OTBhZjE3NWRmYTk2MTJmMWQxNWQyYjNjYmYyOWM5ODExZTdjNzQyMjFiY2FmY2U3MzUwMjMzYnx7InJlbW90ZV9hZGRyZXNzIjoiOTguMTc0LjIxOS4xODEiLCJyZXF1ZXN0X2lkIjoiRTcxQjo1M0VCOjJCOTM5Mjo1NUEwNTg6NUFDNjIzN0YiLCJ0aW1lc3RhbXAiOjE1MjI5MzQ2NjEsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MDFjZDFhOTY5M2M2OGEyNjc2MjE1ZTg2NWMwZjNjZjFhZjQ2ZTZmYmEwZDE3MmIwMmQwMjc5M2I2MzRmYzczMnx7InJlbW90ZV9hZGRyZXNzIjoiOTguMTc0LjIxOS4xODEiLCJyZXF1ZXN0X2lkIjoiODE2Nzo1M0VFOjY2RjJFOTpDNzlGNjE6NUFDNjVGRjAiLCJ0aW1lc3RhbXAiOjE1MjI5NTAxMzksImhvc3QiOiJnaXRodWIuY29tIn0=">
 
-    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP_TREESHAKE">
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
   <meta name="html-safe-nonce" content="cda823516d63a1565e67e421faee48bce7d24261">
 
-  <meta http-equiv="x-pjax-version" content="d4302922d6818007e88ffd1d9c1c927e">
+  <meta http-equiv="x-pjax-version" content="84ed49b081bb9f683374df451112a286">
   
 
       <link href="https://github.com/aaronparker/Intune/commits/master.atom" rel="alternate" title="Recent Commits to Intune:master" type="application/atom+xml">
@@ -263,7 +263,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9HnAPW8hgIZ1r0gHm8H8zg119ee5kb8MpTWLjI4Vli2YuTCYvx4XVsLsfESTkFmrSs+Jx5ehDVU/zGfT79fK/A==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BhgRBJJ+XXx8GxwlPrypm+zWkYEsC9W9kDA8wfdL8Y9q2OGhQkHKrMtYKGY27Qz+q2ztoQI7Z+QKydCelomtXg==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -275,7 +275,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fuXFwdHD6kHk5M7/B83v9yn6U4XPxhSAsVa2WoAYlnYSJTVkAfx9kVOn+rwPnEqSbkAvpeH2ptkrr1oF4drKpw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="QSjGSZw0mwIYmtvAVWmUN0naCx6uCkjFvHThkWZRQWEt6DbsTAsM0q/Z74NdODFSDmB3PoA6+pwmjQ3OB5MdsA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -311,7 +311,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dqXqfE66PgJUKd/y5QEsUaZEpxUtMrv9NufsFa3lim+cxGAPv55hICnvZG+69OvZkddDFqdugfc5ffeE+UKsCA==" />      <input type="hidden" name="repository_id" id="repository_id" value="115596966" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2sXhfHim48ydTdqWIDePlwdPGJyepMi29lcxxmgtZnAwpGsPiYK87uCLYQt/wkgfMNz8nxT48rz5zSpXPIpAFw==" />      <input type="hidden" name="repository_id" id="repository_id" value="115596966" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/aaronparker/Intune/subscription"
@@ -391,7 +391,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/aaronparker/Intune/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5MAHbdFODWwBHFfRXtes1iGzNCxY3y7YkTzMFcIFrsaptGFvlTqiUAtlgAlr6x0bdm5faBW3uhaK1coqmCU/EA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/aaronparker/Intune/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5FX4HNROprZV+n99BCilysGGA7AcD1JtJ8GQjW/RR5SpIZ4ekDoJil+DqKUxFBQHllto9FFnxqM8KJayNfHWQg==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -406,7 +406,7 @@
           6
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/aaronparker/Intune/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xsjtvROOuldhKBSCxY5na3gacBd0HNc1kvUPXzyO3id+cOWAsFwex/3hqqRyzsKZdEDUJZulQgJynNomRmNI8A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/aaronparker/Intune/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="D5h8FedDRhavGky849BUH3cRr6EbFSRp4CfnJGNITPq3IHQoRJHihjPT8ppUkPHte0sLk/SssV4ATjJdGaXaLQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -425,7 +425,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/aaronparker/Intune/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vl4Wc7afnMv4+hlYQFzLrhoB9N2JLimX5CplayYcnbMO6mKU1Rj0fhV0Lbcwb+uPM9gMSq5PMeS2fefKhFPv8A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/aaronparker/Intune/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n95ZQJ7PUN+MzmEFzVzAiBqvDROLN0V7nChS46M1VpEvai2n/Ug4amFAVeq9b+CpM3b1hKxWXQjOf9BCAXok0g==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -620,19 +620,19 @@
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="https://desktop.github.com"
+           href="x-github-client://openRepo/https://github.com/aaronparker/Intune?branch=master&amp;filepath=Folder-Redirection%2FNew-FolderRedirectTask.ps1"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/aaronparker/Intune/edit/master/Folder-Redirection/New-FolderRedirectTask.ps1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XMnSWbpH8NEEdRmV4WS8QVrcdi/LpI8vtVu3PJf5IFE6PbEu/abkrOJn05yYviHQSPPAYXjU3vK3Q8qxChWbsg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/aaronparker/Intune/edit/master/Folder-Redirection/New-FolderRedirectTask.ps1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="O2gNZVGDaFO1V3xHF0EAB2ukXYn/CwGgZQ7Gor7ZShhdnG4SFmJ8LlNFtk5um52WeYvrx0x7UH1nFrsvIzXx+w==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/aaronparker/Intune/delete/master/Folder-Redirection/New-FolderRedirectTask.ps1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="tngy40zQ218tgn+9+JPcoDGkHKPOpDHMuvMRUA6qPeC9XKYg3TQzWGqGcaoZcQAQl7yFoM3XJ1QZKRR69Rjzdw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/aaronparker/Intune/delete/master/Folder-Redirection/New-FolderRedirectTask.ps1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bckGoRt9EK4vXvwfSfiSpBI6ZLUWOUOjEzBIJ2VTLOpm7ZJiipn4qWha8gioGk4UtCL9thVKVTuw6k0NnuHifQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -969,7 +969,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.24141s from unicorn-3171260715-1wm2f">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.25308s from unicorn-684036104-48k30">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -1007,7 +1007,7 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha512-kSB9OSOLjEPJWxe72IuaV1Bw4Cf/f7SPIHvtXRjRW9G9Rx+Lplnedxdip3n2rc0x+M1xRVxF2CF7jxE4ROq31A==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-72789ff79250d59f27dd4132e476313d.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-NETgY8ONuZ9ArIg7IyzqJJTn2GHUQ5BYyegCRA5BZV+d7FRMYGMYLtnE+yXzQKcSpeAaN/79JyeEuebb211dYw==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-615e9cdeaebed3e6d1f47d3fee175b1e.js"></script>
     
     <script crossorigin="anonymous" async="async" integrity="sha512-eUkw3BBb2sBoH67q7pA2gbb7TUXIW+p0g8WDbtckYsliBLmPEvUffM0a6x6tcFTuCm9EVi3QGVauQF3ODs0+iQ==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-39a915963e714f44cb734320fa51fe76.js"></script>
     
