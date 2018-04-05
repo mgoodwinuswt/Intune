@@ -18,7 +18,7 @@
 [CmdletBinding(ConfirmImpact = 'Low', HelpURI = 'https://stealthpuppy.com/', SupportsPaging = $False,
     SupportsShouldProcess = $False, PositionalBinding = $False)]
 Param (
-    [Parameter()]$LogFile = "$env:ProgramData\stealthpuppy\Logs\$($MyInvocation.MyCommand.Name).log",
+    [Parameter()]$LogFile = "$env:ProgramData\mgoodwinuswt\Logs\$($MyInvocation.MyCommand.Name).log",
     [Parameter()]$Target = "$env:Temp",
     [Parameter()]$Arguments = "--silent",
     [Parameter()]$HttpRegEx = "^((http[s]?|ftp):\/)?\/?([^:\/\s]+)((\/\w+)*\/)([\w\-\.]+[^#?\s]+)(.*)?(#[\w\-]+)?$",
