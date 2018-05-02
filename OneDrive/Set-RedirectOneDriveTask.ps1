@@ -13,7 +13,7 @@ Param (
     [Parameter()]$RegPath = "HKLM:\SOFTWARE\FSLogix\Apps",
     [Parameter()]$RegExDirectory = "^[a-zA-Z]:\\[\\\S|*\S]?.*$",
     [Parameter()]$Target = "$env:ProgramData\mgoodwinuswt\Scripts",
-    [Parameter()]$Url = "https://raw.githubusercontent.com/mgoodwinuswt/Intune/master/OneDrive/Redirect-Folders.ps1?token=AjMbbiIlx3GG1x3X4DRX_FMg2o30aYS-ks5az5wzwA%3D%3D",
+    [Parameter()]$Url = "https://raw.githubusercontent.com/mgoodwinuswt/Intune/master/OneDrive/Redirect-Folders.ps1",
     [Parameter()]$Script = "Redirect-Folders.ps1",
     [Parameter()]$ScriptVb = "Redirect-Folders.vbs",
     [Parameter()]$TaskName = "Folder Redirection",
